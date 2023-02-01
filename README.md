@@ -48,10 +48,19 @@ I am going to create a table with 4 cities that I would love to recommend someon
 # Pithy Quote
 
 > "When nobody else celebrates you, learn to celebrate yourself. When nobody else compliments you, then compliment yourself. It’s not up to other people to keep you encouraged. It’s up to you. Encouragement should come from the inside." Jay Shetty
-
+ 
 <Br>
 
 >  “Lighten up, just enjoy life, smile more, laugh more, and don’t get so worked up about things.”  Kenneth Branagh
+
+
+> “I'm sick of following my dreams, man. I'm just going to ask where they're going and hook up with ’em later."  -Mitch Hedberg
+
+<Br>
+
+> “My mother always used to say: The older you get, the better you get, unless you’re a banana.”  -Rose
+
+
 
 ---
 
