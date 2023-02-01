@@ -69,7 +69,7 @@ I am going to create a table with 4 cities that I would love to recommend someon
 
 [Click Here to Know More](https://css-tricks.com/snippets/javascript/)
 
-
+```
 
 
 const array = [1, 1, 1, 3, 3, 2, 2];
@@ -86,5 +86,7 @@ const unique = array.reduce((result, element) => {
 const unique = array.filter((element, index) => {
   return array.indexOf(element) === index;
 });
+
+    ```
 
 [code source](https://css-tricks.com/snippets/javascript/remove-duplicates-from-an-array/)
